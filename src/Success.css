@@ -1,0 +1,42 @@
+.success-page {
+  background-color: #ce2829;
+  color: #fff;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+}
+
+.success-content {
+  width: 600px;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+
+.success-logo {
+  display: flex;
+  width: 100%;
+  justify-content: center;
+  padding: 50px 0 100px 0;
+}
+
+.pizza-name {
+  padding: 30px 0 50px 0;
+  width: 100%;
+  font-size: 22px;
+  font-weight: 600;
+  line-height: 29.44px;
+  text-align: center;
+}
+
+.pizza-specs {
+  width: 200px;
+}
+
+.success-total {
+  padding: 30px;
+  box-sizing: border-box;
+  border-radius: 10px;
+  border: 1px solid #fff;
+  margin: 50px 0;
+}

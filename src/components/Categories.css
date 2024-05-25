@@ -1,0 +1,29 @@
+.categories-wrapper {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  background-color: #fff;
+}
+
+.categories {
+  padding: 0 20px;
+  list-style: none;
+  display: flex;
+  max-width: 1320px;
+  width: 100%;
+  justify-content: space-between;
+}
+
+.category {
+  display: flex;
+  align-items: center;
+  cursor: pointer;
+}
+
+.category:hover {
+  color: #8e8e8e;
+}
+
+.category-name {
+  margin-left: 15px;
+}

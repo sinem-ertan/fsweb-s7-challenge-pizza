@@ -1,0 +1,33 @@
+.categories2-wrapper {
+  margin-top: 20px;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+}
+
+.categories2 {
+  padding: 0 20px;
+  list-style: none;
+  display: flex;
+  max-width: 1320px;
+  width: 100%;
+  justify-content: space-between;
+}
+
+.category2 {
+  display: flex;
+  align-items: center;
+  cursor: pointer;
+  background-color: #fff;
+  padding: 15px 35px;
+  border-radius: 50px;
+}
+
+.category2:hover {
+  color: #fff;
+  background-color: #292929;
+}
+
+.category2-name {
+  margin-left: 15px;
+}
